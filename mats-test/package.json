@@ -1,0 +1,15 @@
+{
+  "name": "mats-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "service/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.8.2",
+    "request": "^2.40.0"
+  }
+}
