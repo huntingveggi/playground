@@ -1,0 +1,9 @@
+node_modules
+target
+bin
+datasource.properties
+.springBeans
+.settings
+.classpath
+.project
+.tern-project
