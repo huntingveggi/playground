@@ -22,7 +22,7 @@ exports.do = function(req, res) {
           console.log(body);
 
         })
-        .auth('printservice', 'serviceprint', false);
+        .auth('printservice', '', false);
   msg.pipe(res);
 }
 

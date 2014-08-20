@@ -2,8 +2,8 @@
     "use strict";
 
     var request       = require('request');
-    var express       = require("express");
-    var js2xmlparser  = require("js2xmlparser");
+    var express       = require('express');
+    var js2xmlparser  = require('js2xmlparser');
     var xml2jsparser  = require('xml2js').Parser();
     var str = require('string');
 

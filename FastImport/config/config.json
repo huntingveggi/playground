@@ -1,0 +1,18 @@
+{
+  "endServiceUrl": "",
+  "proxyServiceUrl": "http://localhost:8881/convert/to/xml/",
+  "contentTypes": {
+    "FSCD": {
+      "contentType": "man:fscd",
+      "readDir": ""
+
+    }
+  },
+  "propertiesMapping": {
+    "ObjID": "objid",
+    "AMNR": "amnr",
+    "ASNR": "asnr",
+    "Monat": "",
+    "Jahr": ""
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "FastImport",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.0.2",
+    "express": "^4.8.4",
+    "request": "^2.40.0",
+    "simple-config": "^1.0.1"
+  }
+}
