@@ -1,0 +1,19 @@
+{
+  "name": "JsonXmlConverter",
+  "version": "0.1.0",
+  "description": "JSON-XML Proxy makeing communication possible between JSON Clients and XML-Services",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.6.5",
+    "express": "^4.8.4",
+    "js2xmlparser": "^0.1.4",
+    "request": "^2.40.0",
+    "string": "^1.9.1",
+    "xml2js": "^0.4.4"
+  }
+}
