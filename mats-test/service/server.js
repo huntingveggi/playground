@@ -9,6 +9,7 @@ app.get('/', function(req, res){
     res.send('You made it to the home page.')
   });
 app.get('/show', service.show);
+app.get('/do', service.do);
 app.get('/test', service.test);
 
 
