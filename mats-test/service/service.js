@@ -6,7 +6,7 @@ exports.show = function(req, res) {
   var vnr = req.query.vorgang;
   var msg = request
         .get(apiUrl + vnr)
-        .auth('', '', false);
+        .auth('printservice', '', false);
   console.log("Request for Vorgang-ID "+msg.id);
   msg.pipe(res);
 }
